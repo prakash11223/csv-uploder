@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 //connect to database
-mongoose.connect("mongodb://localhost:27017/csv_upload");
+mongoose.connect("mongodb://localhost:27017/csv_upload", { useNewUrlParser: true, useUnifiedTopology: true });
 
 //acquire the connection to check if it is successful or not
 const db = mongoose.connection;
@@ -11,8 +11,8 @@ const db = mongoose.connection;
 db.on("error", console.error.bind(console, "Error connecting to MongoDB"));
 
 //up and running then print the msg
-db.once("open", function () {
-  console.log("Successfully connected to MongoDB database");
+db.once("open", function() {
+    console.log("Successfully connected to MongoDB database");
 });
 
 module.exports = db;

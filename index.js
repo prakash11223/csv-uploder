@@ -4,8 +4,8 @@ const port = process.env.PORT || 8000;
 const expressLayout = require("express-ejs-layouts");
 const db = require("./config/mongoose");
 const path = require("path");
-
-app.use(express.urlencoded());
+// app.use(bodyParser.urlencoded());
+app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 // app.use(express.static(__dirname + '/assests'));
 app.use(express.static("./assests"));
