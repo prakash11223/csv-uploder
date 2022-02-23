@@ -1,0 +1,25 @@
+<div class="main-container">
+    <h1>My Uploaded Files</h1>
+    <div>
+        <% if(files) { %>
+            <div>
+                <% if(files.length<1){ %>
+                    <p>No files Uploaded</p>
+                    <% } %>
+                        <% for(file of files){%>
+                            <p>
+                                <a href="/csv/<%= file.id %>/view">
+                                    <%= file.name %>
+                                </a>
+                                <a href="/csv/<%= file.id %>/destroy "><i class="fa-solid fa-delete-left  btn "></i></a>
+                            </p>
+                            <% } %>
+                                <% if(locals.message) { %>
+                                    <p>
+                                        <%= message %>
+                                    </p>
+                                    <% } %>
+            </div>
+            <% } %>
+    </div>
+</div>

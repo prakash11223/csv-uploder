@@ -1,0 +1,23 @@
+.btn {
+    background-color: aqua;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.main-csv-upload {
+    margin-left: 30%;
+    margin-top: 13%;
+}
+
+.main-container {
+    margin-left: 30%;
+    margin-top: 1vh;
+}
+
+#body-container {
+    border: 5px solid white;
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    margin-top: 10%;
+}

@@ -1,0 +1,187 @@
+roll, subCode, subName, letter, cgpa, totalCredit, creditObtained
+30000118007,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118007,BSM101,Mathematics - I A,B,7,4.0,28.0
+30000118007,ESEE101,Basic Electrical Engineering,C,6,4.0,24.0
+30000118007,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118007,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118007,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118008,BSPH101,Physics I (Gr A),F,2,4.0,8.0
+30000118008,BSM101,Mathematics - I A,B,7,4.0,28.0
+30000118008,ESEE101,Basic Electrical Engineering,D,5,4.0,20.0
+30000118008,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118008,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118008,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118009,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118009,BSM101,Mathematics - I A,C,6,4.0,24.0
+30000118009,ESEE101,Basic Electrical Engineering,D,5,4.0,20.0
+30000118009,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118009,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118009,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118010,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118010,BSM101,Mathematics - I A,C,6,4.0,24.0
+30000118010,ESEE101,Basic Electrical Engineering,D,5,4.0,20.0
+30000118010,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118010,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118010,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118011,BSPH101,Physics - I (Gr - A),B,7,4.0,28.0
+30000118011,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118011,ESEE101,Basic Electrical Engineering,B,7,4.0,28.0
+30000118011,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118011,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118011,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118012,BSPH101,Physics - I (Gr - A),E,9,4.0,36.0
+30000118012,BSM101,Mathematics - I A,O,10,4.0,40.0
+30000118012,ESEE101,Basic Electrical Engineering,B,7,4.0,28.0
+30000118012,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118012,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118012,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118013,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118013,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118013,ESEE101,Basic Electrical Engineering,D,5,4.0,20.0
+30000118013,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118013,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118013,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118014,BSPH101,Physics - I (Gr - A),A,8,4.0,32.0
+30000118014,BSM101,Mathematics - I A,E,9,4.0,36.0
+30000118014,ESEE101,Basic Electrical Engineering,B,7,4.0,28.0
+30000118014,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118014,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118014,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118015,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118015,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118015,ESEE101,Basic Electrical Engineering,C,6,4.0,24.0
+30000118015,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118015,ESEE191,Basic Electrical Engineering Laboratory,A,8,1.0,8.0
+30000118015,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118016,BSPH101,Physics - I (Gr - A),D,5,4.0,20.0
+30000118016,BSM101,Mathematics - I A,C,6,4.0,24.0
+30000118016,ESEE101,Basic Electrical Engineering,D,5,4.0,20.0
+30000118016,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118016,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118016,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118017,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118017,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118017,ESEE101,Basic Electrical Engineering,B,7,4.0,28.0
+30000118017,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118017,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118017,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118018,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118018,BSM101,Mathematics - I A,C,6,4.0,24.0
+30000118018,ESEE101,Basic Electrical Engineering,D,5,4.0,20.0
+30000118018,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118018,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118018,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118019,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118019,BSM101,Mathematics - I A,E,9,4.0,36.0
+30000118019,ESEE101,Basic Electrical Engineering,E,9,4.0,36.0
+30000118019,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118019,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118019,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118020,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118020,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118020,ESEE101,Basic Electrical Engineering,E,9,4.0,36.0
+30000118020,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118020,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118020,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118021,BSPH101,Physics - I (Gr - A),B,7,4.0,28.0
+30000118021,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118021,ESEE101,Basic Electrical Engineering,A,8,4.0,32.0
+30000118021,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118021,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118021,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118022,BSPH101,Physics - I (Gr - A),D,5,4.0,20.0
+30000118022,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118022,ESEE101,Basic Electrical Engineering,A,8,4.0,32.0
+30000118022,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118022,ESEE191,Basic Electrical Engineering Laboratory,A,8,1.0,8.0
+30000118022,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118023,BSPH101,Physics - I (Gr - A),A,8,4.0,32.0
+30000118023,BSM101,Mathematics - I A,E,9,4.0,36.0
+30000118023,ESEE101,Basic Electrical Engineering,E,9,4.0,36.0
+30000118023,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118023,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118023,ESME192,Workshop/Manufacturing Practices(Gr - A),E,9,3.0,27.0
+30000118024,BSPH101,Physics - I (Gr - A),D,5,4.0,20.0
+30000118024,BSM101,Mathematics - I A,C,6,4.0,24.0
+30000118024,ESEE101,Basic Electrical Engineering,B,7,4.0,28.0
+30000118024,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118024,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118024,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118025,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118025,BSM101,Mathematics - I A,E,9,4.0,36.0
+30000118025,ESEE101,Basic Electrical Engineering,B,7,4.0,28.0
+30000118025,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118025,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118025,ESME192,Workshop/Manufacturing Practices(Gr - A),E,9,3.0,27.0
+30000118026,BSPH101,Physics - I (Gr - A),D,5,4.0,20.0
+30000118026,BSM101,Mathematics - I A,E,9,4.0,36.0
+30000118026,ESEE101,Basic Electrical Engineering,B,7,4.0,28.0
+30000118026,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118026,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118026,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118027,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118027,BSM101,Mathematics - I A,B,7,4.0,28.0
+30000118027,ESEE101,Basic Electrical Engineering,A,8,4.0,32.0
+30000118027,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118027,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118027,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118028,BSPH101,Physics - I (Gr - A),D,5,4.0,20.0
+30000118028,BSM101,Mathematics - I A,B,7,4.0,28.0
+30000118028,ESEE101,Basic Electrical Engineering,F,2,4.0,8.0
+30000118028,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118028,ESEE191,Basic Electrical Engineering Laboratory,A,8,1.0,8.0
+30000118028,ESME192,Workshop/Manufacturing Practices(Gr - A),E,9,3.0,27.0
+30000118029,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118029,BSM101,Mathematics - I A,C,6,4.0,24.0
+30000118029,ESEE101,Basic Electrical Engineering,B,7,4.0,28.0
+30000118029,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118029,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118029,ESME192,Workshop/Manufacturing Practices(Gr - A),E,9,3.0,27.0
+30000118030,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118030,BSM101,Mathematics - I A,E,9,4.0,36.0
+30000118030,ESEE101,Basic Electrical Engineering,A,8,4.0,32.0
+30000118030,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118030,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118030,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118031,BSPH101,Physics I (Gr A),F,2,4.0,8.0
+30000118031,BSM101,Mathematics I A,F,2,4.0,8.0
+30000118031,ESEE101,Basic Electrical Engineering,D,5,4.0,20.0
+30000118031,BSPH191,Physics - I Laboratory (Gr - A),A,8,1.5,12.0
+30000118031,ESEE191,Basic Electrical Engineering Laboratory,A,8,1.0,8.0
+30000118031,ESME192,Workshop/Manufacturing Practices(Gr - A),E,9,3.0,27.0
+30000118032,BSPH101,Physics - I (Gr - A),D,5,4.0,20.0
+30000118032,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118032,ESEE101,Basic Electrical Engineering,A,8,4.0,32.0
+30000118032,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118032,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118032,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118033,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118033,BSM101,Mathematics - I A,B,7,4.0,28.0
+30000118033,ESEE101,Basic Electrical Engineering,C,6,4.0,24.0
+30000118033,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118033,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118033,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118034,BSPH101,Physics - I (Gr - A),C,6,4.0,24.0
+30000118034,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118034,ESEE101,Basic Electrical Engineering,D,5,4.0,20.0
+30000118034,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118034,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118034,ESME192,Workshop/Manufacturing Practices(Gr - A),E,9,3.0,27.0
+30000118035,BSPH101,Physics - I (Gr - A),B,7,4.0,28.0
+30000118035,BSM101,Mathematics - I A,E,9,4.0,36.0
+30000118035,ESEE101,Basic Electrical Engineering,A,8,4.0,32.0
+30000118035,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118035,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118035,ESME192,Workshop/Manufacturing Practices(Gr - A),E,9,3.0,27.0
+30000118036,BSPH101,Physics - I (Gr - A),D,5,4.0,20.0
+30000118036,BSM101,Mathematics - I A,A,8,4.0,32.0
+30000118036,ESEE101,Basic Electrical Engineering,C,6,4.0,24.0
+30000118036,BSPH191,Physics - I Laboratory (Gr - A),O,10,1.5,15.0
+30000118036,ESEE191,Basic Electrical Engineering Laboratory,O,10,1.0,10.0
+30000118036,ESME192,Workshop/Manufacturing Practices(Gr - A),O,10,3.0,30.0
+30000118037,BSPH101,Physics - I (Gr - A),D,5,4.0,20.0
+30000118037,BSM101,Mathematics - I A,B,7,4.0,28.0
+30000118037,ESEE101,Basic Electrical Engineering,A,8,4.0,32.0
+30000118037,BSPH191,Physics - I Laboratory (Gr - A),E,9,1.5,13.5
+30000118037,ESEE191,Basic Electrical Engineering Laboratory,E,9,1.0,9.0
+30000118037,ESME192,Workshop/Manufacturing Practices(Gr - A),E,9,3.0,27.0
