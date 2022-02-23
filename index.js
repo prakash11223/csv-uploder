@@ -7,11 +7,11 @@ const path = require("path");
 // app.use(bodyParser.urlencoded());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-// app.use(express.static(__dirname + '/assests'));
+//for static files
 app.use(express.static("./assests"));
 //to make the uploads path available to the browser
 app.use("/uploads", express.static(__dirname + "/uploads"));
-
+//for using express layouts
 app.use(expressLayout);
 //extract style & scripts from subpages into the layout
 app.set("layout extractStyles", true);
