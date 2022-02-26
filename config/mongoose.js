@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 //connect to database
-mongoose.connect("mongodb://localhost:27017/csv_upload", { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect("mongodb+srv://Prakash11223:GpOtvEJoCB42rgcY@cluster0.fm6qp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", { useNewUrlParser: true, useUnifiedTopology: true });
 
 //acquire the connection to check if it is successful or not
 const db = mongoose.connection;

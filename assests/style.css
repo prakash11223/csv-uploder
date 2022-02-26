@@ -4,6 +4,11 @@
     border-radius: 10px;
 }
 
+#file-uploder {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .main-csv-upload {
     margin-left: 30%;
     margin-top: 13%;
@@ -17,7 +22,11 @@
 #body-container {
     border: 5px solid white;
     height: fit-content;
-    width: fit-content;
+    width: max-content;
     margin: auto;
     margin-top: 10%;
+}
+
+#body-container a {
+    text-decoration: none;
 }
